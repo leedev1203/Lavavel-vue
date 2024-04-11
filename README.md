@@ -1,8 +1,8 @@
 # Laravel-Vue SPA 
 
-<a href="https://github.com/cretueusebiu/laravel-vue-spa/actions"><img src="https://github.com/cretueusebiu/laravel-vue-spa/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/cretueusebiu/laravel-vue-spa"><img src="https://poser.pugx.org/cretueusebiu/laravel-vue-spa/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/cretueusebiu/laravel-vue-spa"><img src="https://poser.pugx.org/cretueusebiu/laravel-vue-spa/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://github.com/leedev1203/laravel-vue/actions"><img src="https://github.com/leedev1203/laravel-vue/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/leedev1203/laravel-vue"><img src="https://poser.pugx.org/leedev1203/laravel-vue/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/leedev1203/laravel-vue"><img src="https://poser.pugx.org/leedev1203/laravel-vue/v/stable.svg" alt="Latest Stable Version"></a>
 
 > A Laravel-Vue SPA starter kit.
 
@@ -22,7 +22,7 @@
 
 ## Installation
 
-- `composer create-project --prefer-dist cretueusebiu/laravel-vue-spa`
+- `composer create-project --prefer-dist leedev1203/laravel-vue`
 - Edit `.env` and set your database connection details
 - (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
